@@ -1,5 +1,5 @@
 # Run the script by using this command
-# wget -O - https://raw.githubusercontent.com/bmacdon5/Scriptin/main/master.sh | bash
+# bash <(curl https://raw.githubusercontent.com/bmacdon5/Scriptin/main/master.sh)
 #!/bin/bash
 
 #COLOR
