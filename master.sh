@@ -1,5 +1,5 @@
 # Run the script by using this command
-# wget -O - https://raw.githubusercontent.com/bmacdon5/Scriptin/main/master.yaml
+# wget -O - https://raw.githubusercontent.com/bmacdon5/Scriptin/main/master.yaml | bash
 #!/bin/bash
 
 #COLOR
